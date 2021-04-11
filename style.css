@@ -1,0 +1,40 @@
+.logo{
+width: 100px;
+height: 100px;
+}
+
+
+
+#camera, #output{
+width: 300px;
+height: 350px;
+border-style: dotted;
+}
+
+.sss{
+background-color: burlywood;
+}
+
+body{
+background-color: cyan;
+}
+
+.a{
+background-color: white;
+}
+
+.bb{
+background-color:darkturquoise;
+width: 700px;
+border-width: 10px;
+border-style:groove;
+}
+
+.cc{
+position: fixed;
+bottom: 0;
+text-align: center;
+color: deepskyblue;
+background-color: dimgray;
+height: 25;
+}
